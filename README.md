@@ -8,7 +8,7 @@ The goal of this project is to create an alternative to traditional Neural Netwo
 - The network's output is a linear combination of radial basis functions of the inputs and neuron parameters.
 - In this project, we aim to implement the Radial Basis Function (RBF) Network from scratch, as there is no standard implementation in the PyTorch library, to the best of our knowledge.
 
-![RBF Network]https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rbf-network.svg/800px-Rbf-network.svg.png
+![RBF Network](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rbf-network.svg/800px-Rbf-network.svg.png)
 
 ## Dataset
 The dataset utilized in this project is borrowed from [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_circles.html). It is a toy dataset that consists of a large circle containing a smaller circle in 2D.
